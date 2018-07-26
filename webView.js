@@ -60,15 +60,6 @@ class Webview extends React.Component {
                     </View>
 
                 </View>
-                <View style={styles.content}>
-                    <Text style={styles.tip}>
-                        Custom emoticons is on going
-                    </Text>
-                    <Text style={styles.tip1}>
-                        If you like this component, a star will be nice, thanks!
-                    </Text>
-                </View>
-
             </View>
 
         )
